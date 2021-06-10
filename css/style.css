@@ -1,0 +1,112 @@
+body {
+    text-align:justify;
+    background-color: #dcdcdc;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: black;
+    margin: 10px 30px;
+    background-image: url(../imgs/plano-fundo.png);
+}
+
+header .container {
+    display:flex;
+    align-items:center;
+    border-bottom: 2px #363636 solid;
+    padding: 5px 20px;
+    background: linear-gradient(rgba(95, 92, 92, 0.5), rgba(95, 92, 92, 0.5)100%);
+}
+
+.botao {
+    background-color: rgba(0,0,0,.50);
+    border: 1px black solid;
+    border-radius: 2px;
+    color: white;
+    text-align: center;
+
+    padding: 10px 20px;
+    margin: 10px 10px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.botao:hover {
+    background-color: white;
+    color: black;
+}
+
+.menu {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Londrina Outline', cursive;
+    text-align: center;
+    color: black;
+}
+
+
+.capa {
+    max-width:500px;
+    max-height:450px;
+    width: auto;
+    height: auto;
+    margin-left: 200px;
+}
+
+.parte2 {
+    margin-top: 100px;
+}
+
+.img1 {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 2px black dashed;
+    margin-right: 15px;
+
+}
+
+h2 {
+    text-align: center;
+    font-weight: normal;
+    color: rgb(243, 91, 35);
+    margin-bottom: 30px;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+p {
+    text-align: center;
+    margin-top: 10px;
+    color: #363636;
+}
+
+.img2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px black dashed;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+#temperamento {
+    text-align: center;
+    font-weight: normal;
+    color: black;
+    margin-bottom: 30px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.img3 {
+    justify-content: center;
+    margin-left: 150px;
+}
