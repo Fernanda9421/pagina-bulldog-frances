@@ -78,7 +78,7 @@ h1 {
 h2 {
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-    font-weight: normal;
+    font-weight:bold;
     color: rgb(243, 91, 35);
     margin-bottom: 40px;;
     font-size: 30px;
@@ -110,11 +110,7 @@ p {
     margin-bottom: 30px;
     font-size: 30px;
     margin-top: 100px;
-}
-
-.img3 {
-    justify-content: center;
-    margin-left: 150px;
+    font-weight: bold;
 }
 
 .bloco1 {
@@ -153,4 +149,60 @@ p {
     max-width: auto;
 }
 
+#condicao-fisica {
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 30px;
+    font-size: 30px;
+    margin-top: 400px;
+    width: 1224px;
+    height: 31px;
+    font-weight: bold;
+}
+
+.img3 {
+    width: 300px;
+    height: 250px;
+    max-height: auto;
+    max-width: auto;
+    border-radius: 50%;
+    border: 2px black solid;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+.img4 {
+    width: 450px;
+    height: 350px;
+    max-height: auto;
+    max-width: auto;
+}
+
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-weight:bold;
+    color: rgb(243, 91, 35);
+    margin-bottom: 20px;;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.img5 {
+    width: 500px;
+    height: 350px;
+    max-height: auto;
+    max-width: auto;
+}
+
+.img6 {
+    width: 300px;
+    height: 250px;
+    max-height: auto;
+    max-width: auto;
+}
+
+.img7 {
+    width: 100%;
+}
 
